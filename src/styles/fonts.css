@@ -13,3 +13,11 @@
   src: local("Nunito Regular"), local("Nunito-Regular"),
     url("./fonts/Nunito-Regular.ttf") format("truetype");
 }
+
+@font-face {
+  font-family: "Nunito-Black";
+  font-style: "normal";
+  font-weight: 400;
+  src: local("Nunito Black"), local("Nunito-Black"),
+    url("./fonts/Nunito-Black.ttf") format("truetype");
+}

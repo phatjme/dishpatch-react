@@ -46,7 +46,8 @@ const grid = {
 const font = {
   family: {
     heading: "FredokaOne-Regular, Verdana, Geneva, sans-serif",
-    body: '"Nunito", Arial, Helvetica, sans-serif'
+    body: '"Nunito", Arial, Helvetica, sans-serif',
+    bold: '"Nunito-Black", Arial, Helvetica, sans-serif'
   },
   baseline: "100%",
   scale: {
