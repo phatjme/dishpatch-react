@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dishpatch-react/static/css/main.2674c664.chunk.css",
+    "main.js": "/dishpatch-react/static/js/main.ce00cf07.chunk.js",
+    "main.js.map": "/dishpatch-react/static/js/main.ce00cf07.chunk.js.map",
+    "runtime-main.js": "/dishpatch-react/static/js/runtime-main.a2a443c2.js",
+    "runtime-main.js.map": "/dishpatch-react/static/js/runtime-main.a2a443c2.js.map",
+    "static/js/2.0cc11f47.chunk.js": "/dishpatch-react/static/js/2.0cc11f47.chunk.js",
+    "static/js/2.0cc11f47.chunk.js.map": "/dishpatch-react/static/js/2.0cc11f47.chunk.js.map",
+    "index.html": "/dishpatch-react/index.html",
+    "precache-manifest.f0d7b7b6c60b06402168ca297abb4e27.js": "/dishpatch-react/precache-manifest.f0d7b7b6c60b06402168ca297abb4e27.js",
+    "service-worker.js": "/dishpatch-react/service-worker.js",
+    "static/css/main.2674c664.chunk.css.map": "/dishpatch-react/static/css/main.2674c664.chunk.css.map",
+    "static/js/2.0cc11f47.chunk.js.LICENSE.txt": "/dishpatch-react/static/js/2.0cc11f47.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/dishpatch-react/static/media/Nunito-Regular.dba92cb9.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a443c2.js",
+    "static/js/2.0cc11f47.chunk.js",
+    "static/css/main.2674c664.chunk.css",
+    "static/js/main.ce00cf07.chunk.js"
+  ]
+}
